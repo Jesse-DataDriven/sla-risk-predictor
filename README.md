@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Inteligência Ativa](https://img.shields.io/badge/IA-Inteligência%20Ativa-9467bd)
+![Regressão](https://img.shields.io/badge/Regressão-Ciência%20de%20Dados-1f77b4)
+![Excelência Contratual](https://img.shields.io/badge/Excelência-Contratual-20c997)
+![Gestão de KPIs de Multas](https://img.shields.io/badge/Gestão%20de%20KPIs-Multas-0dcaf0)
+
 # Performance Optimization Algorithm | SLA & Capacity Prediction
 
 ## 📊 Demonstração do Projeto
